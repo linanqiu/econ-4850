@@ -1,5 +1,7 @@
 # Lecture 1
 
+I learned how to spell "cognitive" today. cogn**i**tive not cogn**o**tive. Thanks spellcheck.
+
 ## Seminal Perspectives on Economics
 
 ### Milton Friedman
@@ -30,3 +32,4 @@ Question now is to investigate if examples of bias in particular situations lead
 
 [Rationality for Economics](http://www.jstor.org/stable/41623954?seq=1#page_scan_tab_contents)
 
+Collates a table of 25 different "cognitive anomalies" that have been documented. 
