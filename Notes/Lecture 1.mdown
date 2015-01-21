@@ -4,8 +4,6 @@
 
 ### Milton Friedman
 
-*Methodology of Positive Economics*
-
 [Methodology of Positive Economics](http://digamo.free.fr/hausman82.pdf#page=76)
 
 Value of theory judged on accuracy of **empirical predictions** that the theory makes. Often taken by economists to be a reason not to be concerned with peopel's actual cognitive abilities, and to use rational-choice models regardless of their psychological realism.
