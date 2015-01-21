@@ -6,6 +6,8 @@
 
 *Methodology of Positive Economics*
 
+[Methodology of Positive Economics](http://digamo.free.fr/hausman82.pdf#page=76)
+
 Value of theory judged on accuracy of **empirical predictions** that the theory makes. Often taken by economists to be a reason not to be concerned with peopel's actual cognitive abilities, and to use rational-choice models regardless of their psychological realism.
 
 Ironically, this can also be used to justify behavioral methodologies (if those methodologies claim to have better predictions).
@@ -14,8 +16,19 @@ Need not be incompatible with computational model -- even if the billiard player
 
 ### Daniel Kahneman
 
+[Maps of Bounded Rationality](https://ideas.repec.org/p/ris/nobelp/2002_004.html)
+
 Bounded rationality. Many judgments are intuitive, produced automatically without conscious deliberation. Intuitive "system 1". Deliberative "system 2" is too **slow and costly** to use for everything. However, intuitions contain biases relative to the conclusions that should result from rational deliberation.
 
 Paper gives example of chess -- too costly to enumerate all the possible moves. Instead, uses intuition and experience.
 
-Documented biass in perceptual judgments provide a useful analogy for biases. eg. **Bernoulli's error**: idea that utility should only depend on final wealth obtained from a series of transactions rather than gains or losses along the way to the final state. 
+Documented biass in perceptual judgments provide a useful analogy for biases. eg. **Bernoulli's error**: idea that utility should only depend on final wealth obtained from a series of transactions rather than gains or losses along the way to the final state.
+
+Friedman would agree that many decisions are based on intuition rather than calculation: eg. the billiard player. Questions are if intuitive judgments are made largely as if optimizing (again, focus on predictive outcomes). Kahneman says no.
+
+Question now is to investigate if examples of bias in particular situations lead to a more **general perspective on what behavior to expect**
+
+### Daniel McFadden
+
+[Rationality for Economics](http://www.jstor.org/stable/41623954?seq=1#page_scan_tab_contents)
+
