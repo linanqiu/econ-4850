@@ -6,4 +6,16 @@
 
 *Methodology of Positive Economics*
 
-Value of theory judged on accuracy of **empirical predictions** that the theory makes.
+Value of theory judged on accuracy of **empirical predictions** that the theory makes. Often taken by economists to be a reason not to be concerned with peopel's actual cognitive abilities, and to use rational-choice models regardless of their psychological realism.
+
+Ironically, this can also be used to justify behavioral methodologies (if those methodologies claim to have better predictions).
+
+Need not be incompatible with computational model -- even if the billiard player doesn't think about those processes, we can still investigate those processes as an analytical process.
+
+### Daniel Kahneman
+
+Bounded rationality. Many judgments are intuitive, produced automatically without conscious deliberation. Intuitive "system 1". Deliberative "system 2" is too **slow and costly** to use for everything. However, intuitions contain biases relative to the conclusions that should result from rational deliberation.
+
+Paper gives example of chess -- too costly to enumerate all the possible moves. Instead, uses intuition and experience.
+
+Documented biass in perceptual judgments provide a useful analogy for biases. eg. **Bernoulli's error**: idea that utility should only depend on final wealth obtained from a series of transactions rather than gains or losses along the way to the final state. 
